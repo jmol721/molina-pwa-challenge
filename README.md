@@ -38,4 +38,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, contact me directly at jmolina721@gmail.com. You can find more of my work at [jmol721@gmail.com](https://github.com/jmol721@gmail.com/).
+  If you have any questions about the repo, contact me directly at jmolina721@gmail.com. You can find more of my work at [jmol721(https://github.com/jmol721/).
